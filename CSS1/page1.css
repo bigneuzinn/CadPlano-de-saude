@@ -44,26 +44,51 @@
 .left-login-img {
    height: 400px;
    position: relative;
-   margin-top: 200px;
+   margin-top: 500px;
+   padding-left: 100px;
 
 }
 
 .JaPossui {
+    position: relative;
     display: flex;
-    justify-content: space-between;
-    padding-left: 100px;
-    padding-right:00px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    justify-content: center;
+    width: 400px;
+    right: 00px;
+    left: 400px;
 
     align-items: center;
     
 }
 
-.Cadastre-se, .Login {
-    position: absolute;
+.Cadastre-se {
+    position: relative;
     display: flex;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     justify-content: center;
+    width: 300px;
+    left: 1070px;
+    top: -80px;
+
+    
     align-items: center;
 }
+
+.Botao {
+   position: relative;
+   top: -600px;
+   height: 100px;
+   left: 1115px;
+}
+
+.Botao2 {
+    position: relative;
+    top: -600px;
+    height: 100px;
+    left: 1120px;
+}
+
 
 
 
